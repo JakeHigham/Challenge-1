@@ -1,7 +1,8 @@
-# <Challenge-1>
+
+# Challenge-1
 
  https://jakehigham.github.io/Challenge-1/
-
+ 
 ## Description
 
 This assignment on code refactoring is to show what I've learned when it comes to HTML and CSS. 
